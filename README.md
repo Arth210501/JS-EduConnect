@@ -26,22 +26,22 @@ Seamless Integration: The front-end communicates with the back-end using Node.js
 Development and Production Modes: The application supports different configurations for development and production environments.
 
 #Technologies Used
-Front-End:
 
+Front-End:
 React.js
 HTML5
 CSS3
 Bootstrap 5
 jQuery
-Back-End:
 
+Back-End:
 Node.js
 Express.js
 
-#Database:
+Database:
 MS SQL
 
-#Other Tools:
+Other Tools:
 Git & GitHub for version control
 npm for package management
 react-router-dom for navigation
