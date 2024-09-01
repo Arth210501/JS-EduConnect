@@ -49,7 +49,7 @@ JWT for authentication
 Installation
 Prerequisites
 
-Ensure you have the following installed:
+#Ensure you have the following installed:
 
 Node.js (v14 or higher)
 MS SQL server
